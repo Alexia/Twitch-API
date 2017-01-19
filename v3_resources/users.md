@@ -117,7 +117,7 @@ curl -H 'Accept: application/vnd.twitchtv.v3+json' -H 'Authorization: OAuth <acc
   "logo": "http://static-cdn.jtvnw.net/jtv_user_pictures/test_user1-profile_image-62e8318af864d6d7-300x300.jpeg",
   "_id": 22761313,
   "display_name": "test_user1",
-  "email": "asdf@asdf.com",
+  "email": "example@example.com",
   "partnered": true,
   "bio": "test bio woo I'm a test user",
   "notifications": {
